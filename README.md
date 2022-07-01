@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/ibimina/sunnyside-agency-landing-page](https://github.com/ibimina/sunnyside-agency-landing-page)
+- Live Site URL: [Add live site URL here](https://ibimina.github.io/sunnyside-agency-landing-page/)
 
 ## My process
 
