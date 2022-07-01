@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/sunnyside-agency-landing-page/static/css/main.4b67e280.css",
+    "main.js": "/sunnyside-agency-landing-page/static/js/main.5301af03.js",
+    "static/media/image-header.jpg": "/sunnyside-agency-landing-page/static/media/image-header.9167cda0c72b56b2cda5.jpg",
+    "static/media/image-gallery-milkbottles.jpg": "/sunnyside-agency-landing-page/static/media/image-gallery-milkbottles.df1d9d8460e873924250.jpg",
+    "static/media/image-graphic-design.jpg": "/sunnyside-agency-landing-page/static/media/image-graphic-design.7ac8bdf0d3df29591a3b.jpg",
+    "static/media/image-photography.jpg": "/sunnyside-agency-landing-page/static/media/image-photography.104cf40b52f66520afb0.jpg",
+    "static/media/image-gallery-sugarcubes.jpg": "/sunnyside-agency-landing-page/static/media/image-gallery-sugarcubes.09b72f4fbfbf08579f9d.jpg",
+    "static/media/image-gallery-orange.jpg": "/sunnyside-agency-landing-page/static/media/image-gallery-orange.373d43f1f42a447ed9a6.jpg",
+    "static/media/image-gallery-cone.jpg": "/sunnyside-agency-landing-page/static/media/image-gallery-cone.461ff4214c3ac822dfff.jpg",
+    "static/media/image-gallery-sugar-cubes.jpg": "/sunnyside-agency-landing-page/static/media/image-gallery-sugar-cubes.fefc3841f885fca27c53.jpg",
+    "static/media/logo.svg": "/sunnyside-agency-landing-page/static/media/logo.4271b8992622e4dd1cc7de08466dab06.svg",
+    "static/media/icon-instagram.svg": "/sunnyside-agency-landing-page/static/media/icon-instagram.7d97118aca6da4dd308fbe5b0ad8b9d6.svg",
+    "static/media/icon-pinterest.svg": "/sunnyside-agency-landing-page/static/media/icon-pinterest.fd8b84da3f15023f2ae8d359495f43db.svg",
+    "index.html": "/sunnyside-agency-landing-page/index.html",
+    "static/media/icon-twitter.svg": "/sunnyside-agency-landing-page/static/media/icon-twitter.23df5d421d6e70c35715be06e375f403.svg",
+    "static/media/icon-facebook.svg": "/sunnyside-agency-landing-page/static/media/icon-facebook.101bd07e99eaeae8b0f594d4908d92b0.svg",
+    "static/media/icon-arrow-down.svg": "/sunnyside-agency-landing-page/static/media/icon-arrow-down.979ef07a7cbb07d35f05bbaa093f7489.svg",
+    "static/media/icon-hamburger.svg": "/sunnyside-agency-landing-page/static/media/icon-hamburger.7764b7eb6060edb45161.svg",
+    "main.4b67e280.css.map": "/sunnyside-agency-landing-page/static/css/main.4b67e280.css.map",
+    "main.5301af03.js.map": "/sunnyside-agency-landing-page/static/js/main.5301af03.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b67e280.css",
+    "static/js/main.5301af03.js"
+  ]
+}
