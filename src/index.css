@@ -17,7 +17,7 @@ header {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
-  min-height: 500px;
+  min-height: 33rem;
   height: 100%;
   padding: 1.5rem;
   position: relative;
@@ -105,7 +105,7 @@ span {
   background-repeat: no-repeat;
   background-size: cover;
   height: 100%;
-  min-height: 350px;
+  min-height: 20rem;
   display: block;
 }
 .egg {
@@ -165,7 +165,7 @@ span {
 }
 .fruit {
   height: 100%;
-  min-height: 590px;
+  min-height: 40rem;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -209,7 +209,7 @@ article {
   color: hsl(213, 9%, 39%);
 }
 
-h4 {
+h3 {
   color: hsl(232, 10%, 55%);
 }
 .name {
@@ -229,7 +229,7 @@ h4 {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  min-height: 180px;
+  min-height: 12rem;
   height: 100%;
 }
 .bottles {
@@ -269,6 +269,71 @@ footer {
   justify-content: center;
   gap: 1.5rem;
 }
+@media (min-width:33.75rem){
+header{
+min-height: 48rem;
+}
+h1{
+  margin-top: 7rem;
+  margin-bottom: 12rem;
+}
+.image-box{
+  min-height: 25rem;
+}
+.text{
+padding-inline: 7.4rem;
+}
+.text-two{
+    padding-inline: 6.5rem;
+}
+.testimony{
+  padding-inline:7.6rem ;
+}
+.fruit{
+  min-height: 55rem;
+}
+.testimonials{
+  margin-top: 3rem;
+}
+.square{
+  min-height: 17rem;
+}
+}
+@media (min-width:48rem){
+header{
+min-height: 63rem;
+}
+h1{
+  margin-top: 15rem;
+  margin-bottom: 17rem;
+}
+.fruit{
+  min-height: 77rem;
+}
+.text{
+padding-inline: 14.5rem;
+}
+.text-two{
+    padding-inline: 13.5rem;
+}
+.testimony{
+  padding-inline:14.5rem ;
+}
+.testimonials{
+  margin-top: 3rem;
+}
+.image-box{
+  min-height: 38rem;
+}
+.square{
+  min-height: 25rem;
+}
+}
+@media (min-width:50rem) {
+  .fruit{
+    min-height: 88rem;
+  }
+}
 @media (min-width: 60rem) {
   header {
     background-image: url(assets/images/desktop/image-header.jpg);
@@ -276,6 +341,7 @@ footer {
   }
   .head {
     padding: 0.8rem;
+  
   }
   .mobile-navigation {
     display: none;
@@ -315,6 +381,7 @@ footer {
   }
   h1 {
     margin-bottom: 5rem;
+    margin-top: 3rem;
     letter-spacing: 5px;
   }
   span {
@@ -337,10 +404,11 @@ footer {
     justify-content: center;
     align-items: flex-start;
     text-align: left;
-    padding-inline: 9.3rem;
+    padding-right: 1rem;
+    padding-left: 5rem;
   }
   .text {
-    padding: 0;
+    padding: 0 ;
   }
   .services {
     display: grid;
@@ -349,6 +417,7 @@ footer {
   .brand {
     grid-column: 1;
     grid-row: 1;
+  
   }
   .egg {
     background-image: url(assets/images/desktop/image-transform.jpg);
@@ -359,6 +428,12 @@ footer {
     background-image: url(assets/images/desktop/image-stand-out.jpg);
     grid-column: 1;
     grid-row: 2;
+  }
+  .fruit{
+    min-height: 40rem;
+  }
+  .image-box{
+    min-height: 25rem;
   }
   .orange {
     background-image: url(assets/images/desktop/image-photography.jpg);
@@ -373,7 +448,7 @@ footer {
   .text-two {
     font-size: 14px;
     font-weight: 500;
-    padding-inline: 11.5rem;
+    padding-inline: 6.4rem;
   }
   aside {
     display: flex;
@@ -384,11 +459,11 @@ footer {
     padding: 1.8rem;
   }
   .testimonials {
-    padding: 6rem 4rem;
+    padding: 6rem 3.4rem;
   }
   .testimony {
     font-size: 14px;
-    padding-inline: 1.9rem;
+    padding-inline: 0rem;
     font-weight: bold;
   }
   .learn:hover:after {
@@ -398,6 +473,7 @@ footer {
   .picture {
     grid-template-columns: repeat(4, 1fr);
   }
+ 
   .icon:hover,
   .footer-ul li:hover {
     color: #fff;
@@ -406,9 +482,7 @@ footer {
   .icon:hover {
     filter: brightness(0) invert(1);
   }
-  .square {
-    min-height: 380px;
-  }
+ 
   .bottles {
     background-image: url(assets/images/desktop/image-gallery-milkbottles.jpg);
   }
@@ -421,7 +495,56 @@ footer {
   .cones {
     background-image: url(assets/images/desktop/image-gallery-cone.jpg);
   }
-  .image-box {
-    min-height: 500px;
+  
+}
+@media (min-width: 70rem) {
+ 
+  .head {
+    padding: 0.8rem;
+  
   }
+
+  h1 {
+    margin-bottom: 5rem;
+    margin-top: 3rem;
+    letter-spacing: 5px;
+  }
+  .arrow {
+    max-height: 90px;
+    height: 100%;
+  }
+  .transform {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    text-align: left;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    padding-inline: 9.3rem;
+  }
+  .brands {
+    padding: 0 5rem 0 0;
+  }
+  .right {
+    padding: 0 2rem 0 0;
+  }  
+  .text {
+    padding: 0;
+  }
+  .text-two {   
+    padding-inline: 11.5rem;
+  } 
+  article {
+    padding: 1.8rem;
+  }
+  .testimonials {
+    padding: 6rem 4rem;
+  }
+  .testimony {
+    
+    padding-inline: 1.9rem;
+   
+  }
+ 
 }

@@ -10,7 +10,7 @@ function Services() {
               brands grow fast. Engage your clients through compelling visuals
               that do most of the marketing for you.{" "}
             </p>
-            <a href="##" className="learn line">
+            <a href="#mm" className="learn line">
               LEARN MORE
             </a>
           </div>
@@ -22,7 +22,7 @@ function Services() {
               photographers, videographers, and copywriters, we'll build and
               extend your brand in digital places.
             </p>
-            <a href="##" className="learn linetwo">
+            <a href="#mm" className="learn linetwo">
               LEARN MORE
             </a>
           </div>

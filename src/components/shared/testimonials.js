@@ -6,7 +6,7 @@ function Testimonials() {
   return (
     <>
       <section className="testimonials">
-        <h4>CLIENT TESTIMONAILS</h4>
+        <h3>CLIENT TESTIMONAILS</h3>
         <aside>
           <article>
             <img src={Emily} alt="emily avatar" className="avatar" />
